@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+  <g id="dots-01" opacity="0.55">
+    <ellipse id="Ellipse_8980" data-name="Ellipse 8980" cx="3.5" cy="3.5" rx="3.5" ry="3.5" transform="translate(81)" fill="#fff"/>
+    <ellipse id="Ellipse_8980-2" data-name="Ellipse 8980" cx="3.5" cy="3.5" rx="3.5" ry="3.5" transform="translate(54)" fill="#fff"/>
+    <ellipse id="Ellipse_8980-3" data-name="Ellipse 8980" cx="3.5" cy="3.5" rx="3.5" ry="3.5" transform="translate(27)" fill="#fff"/>
+    <ellipse id="Ellipse_8980-4" data-name="Ellipse 8980" cx="3.5" cy="3.5" rx="3.5" ry="3.5" transform="translate(0)" fill="#fff"/>
+    <ellipse id="Ellipse_8980-5" data-name="Ellipse 8980" cx="3.5" cy="3.5" rx="3.5" ry="3.5" transform="translate(81 27)" fill="#fff"/>
+    <ellipse id="Ellipse_8980-6" data-name="Ellipse 8980" cx="3.5" cy="3.5" rx="3.5" ry="3.5" transform="translate(54 27)" fill="#fff"/>
+    <ellipse id="Ellipse_8980-7" data-name="Ellipse 8980" cx="3.5" cy="3.5" rx="3.5" ry="3.5" transform="translate(27 27)" fill="#fff"/>
+    <ellipse id="Ellipse_8980-8" data-name="Ellipse 8980" cx="3.5" cy="3.5" rx="3.5" ry="3.5" transform="translate(81 54)" fill="#fff"/>
+    <ellipse id="Ellipse_8980-9" data-name="Ellipse 8980" cx="3.5" cy="3.5" rx="3.5" ry="3.5" transform="translate(54 54)" fill="#fff"/>
+    <ellipse id="Ellipse_8980-10" data-name="Ellipse 8980" cx="3.5" cy="3.5" rx="3.5" ry="3.5" transform="translate(81 81)" fill="#fff"/>
+  </g>
+</svg>
